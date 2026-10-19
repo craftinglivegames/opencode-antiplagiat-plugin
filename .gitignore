@@ -1,0 +1,6 @@
+node_modules/
+bridge/venv/
+bridge/__pycache__/
+bridge/bridge.log
+__pycache__/
+*.log

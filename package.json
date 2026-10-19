@@ -1,0 +1,12 @@
+{
+  "name": "opencode-antiplagiat-plugin",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Бесплатная проверка работ на антиплагиат и ИИ-контент по трём сайтам",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "dependencies": {
+    "@opencode/plugin": "latest"
+  }
+}
